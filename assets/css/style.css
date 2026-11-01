@@ -218,11 +218,11 @@ body {
 
 .brand-icon {
 
-    width: 70px;
+    width: 0px;
 
-    height: 70px;
+    height: 0px;
 
-    border-radius: 16px;
+    border-radius: 0px;
 
     display: flex;
 
